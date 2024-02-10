@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/mab.png" alt="Multiarm bandit" width="50%">
+  <img src="images/mab.png" alt="Multiarm bandit" width="70%">
 </div>
 
 
@@ -57,7 +57,7 @@ agents and environments. These tools allow for comprehensive analysis and compar
 - **Instantaneous Regret**: Focuses on the regret experienced at each individual step, providing a granular view of an agent's decision-making process over time.
 
 <div align="center">
-  <img src="images/visualisations.png" alt="Metrics" width="50%">
+  <img src="images/visualisations.png" alt="Metrics" width="70%">
 </div>
 
 
@@ -66,7 +66,7 @@ agents and environments. These tools allow for comprehensive analysis and compar
 To dive into the world of multi-arm bandits with this repository, clone it to your local machine using:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/cormac-rynne/bandits>
 ```
 
 ### Example
